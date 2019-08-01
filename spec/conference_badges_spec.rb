@@ -1,3 +1,4 @@
+12sc 
 require 'spec_helper'
 
 describe 'conference_badges' do
